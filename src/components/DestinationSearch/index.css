@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.box {
+  height: 90%;
+  width: 90%;
+}
+.searchBox {
+  position: relative;
+  display: inline-block;
+}
+
+.img {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.search {
+  height: 40px;
+  width: 200px;
+  border-radius: 10px;
+  border-width: 0px;
+  background-color: #f1f5f9;
+  padding: 10px;
+}
+.mini {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style-type: none;
+}
