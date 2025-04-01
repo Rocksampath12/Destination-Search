@@ -117,7 +117,7 @@ Use these files to complete the implementation:
 - Roboto
 - Open Sans
 
-</details>ccbp submit RJSCPZ6HLZ, ccbp publish RJSCPZ6HLZ chinnu077777777.ccbp.tech
+</details>
 
 > ### _Things to Keep in Mind_
 >
